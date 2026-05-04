@@ -9,7 +9,7 @@ import pandas as pd
 
 
 # Chargement des données
-data = pd.read_excel("ML-RK1-Valid.xlsx")
+data = pd.read_excel("RK1_fulldataset.xlsx")
 
 # Sélection des features et de la cible
 features = ["[I2]", "[LiI]", "[BMII]", "[TBP]", "[GuSCN]"]
