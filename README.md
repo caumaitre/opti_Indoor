@@ -44,6 +44,3 @@ Example:
 <img width="390" height="312" alt="image" src="https://github.com/user-attachments/assets/9c1ca4e6-65b1-4916-a4a1-78b87685ef6f" />
 
 
-</canvaentity
----
-
